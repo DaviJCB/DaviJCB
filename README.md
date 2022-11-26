@@ -1,16 +1,20 @@
+### Olá, eu sou Davi do Espirito Santo Jacob
 
 
-<div align="center">
+- 📖 Estudante de Engenharia da computação Pela Ibmec-RJ
+- 💻 Estudando: Java e JavaScript.
+- 🧑 19 anos
+
+
+<div align="left">
   <a href="https://github.com/DaviJCB">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DaviJCB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviJCB&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" style='float:left' src="https://github-readme stats.vercel.app/apiusername=DaviJCB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviJCB&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  ##
-  
-  Domínio Sobre:
+
   <div style="display: inline_block"><br>
-  <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Davi-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
