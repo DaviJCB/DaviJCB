@@ -15,7 +15,7 @@
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Davi-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Davi-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Davi-Python" height="50" width="40" src="<i class="devicon-javascript-plain colored"></i>">
 </div>
   
   ##
