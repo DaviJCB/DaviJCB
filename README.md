@@ -4,7 +4,7 @@
 
 - 📖 Estudante de Engenharia da computação Pela Ibmec-RJ
 - 💻 Estudando: Java e JavaScript.
-- 🧑 19 anos
+- 🧑 20 anos
 
 
 <div align="left">
